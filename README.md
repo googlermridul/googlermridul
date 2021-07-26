@@ -18,7 +18,7 @@
 
 
 
-<img align="left" height="200" width="460" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
+<img align="left" height="200" width="440" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
 <img align="right" height="200" width="374" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
 
