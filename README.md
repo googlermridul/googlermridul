@@ -1,14 +1,14 @@
 ### Hi there, I'm Mahfuzur Rahman Mridul 👋
-#### A Passionate Front-End Web Developer From Bangla </b> </i>desh
+<h2>A Passionate Front-End Web Developer From Bangladesh</h2>
 
 <b> <i> 🔭 I’m currently working on something cool </b> </i> <br>
 <b> <i> 🌱 I’m currently learning everything </b> </i> <br>
 <b> <i> 👯 I’m looking to collaborate on more open source project </b> </i> <br>
-<b> <i> 🤔 I’m looking for help with ... </b> </i> <br>
+<!-- <b> <i> 🤔 I’m looking for help with ... </b> </i> <br>
 <b> <i> 💬 Ask me about ... </b> </i> <br>
 <b> <i> 📫 How to reach me: ... </b> </i> <br>
 <b> <i> 😄 Pronouns: ... </b> </i> <br>
-<b> <i> ⚡ Fun fact: ... </b> </i>
+<b> <i> ⚡ Fun fact: ... </b> </i> -->
 
 
 <!-- <div align="right" width="50%">
