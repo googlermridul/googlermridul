@@ -1,6 +1,7 @@
 ### Hi there, I'm Mahfuzur Rahman Mridul 👋
 #### A Passionate Front-End Web Developer From Bangladesh
 
+<div>
 🔭 I’m currently working on something cool <br>
 🌱 I’m currently learning everything <br>
 👯 I’m looking to collaborate on more open source project <br>
@@ -9,6 +10,7 @@
 📫 How to reach me: ... <br>
 😄 Pronouns: ... <br>
 ⚡ Fun fact: ...
+</div>
 
 <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
