@@ -12,4 +12,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
-<img align"right" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
