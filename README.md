@@ -15,4 +15,4 @@
 <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
 
 
-<img align="center" height="200" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="googlermridul" />
+<img align="center" height="200" style="border-radius: 5px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="googlermridul" />
