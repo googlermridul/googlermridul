@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Mahfuzur Rahman Mridul 👋
+## A Passionate Front-End Web Developer From Bangladesh
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
