@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahfuzur Rahman Mridul 👋
 #### A Passionate Front-End Web Developer From Bangla </b>desh
 
-<b>🔭 I’m currently working on something cool </b> <br>
+<b>🔭 I’m currently working on something cool </b> 
 <b>🌱 I’m currently learning everything </b> <br>
 <b>👯 I’m looking to collaborate on more open source project </b> <br>
 <b>🤔 I’m looking for help with ... </b> <br>
