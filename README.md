@@ -1,11 +1,10 @@
-<h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋 <br>
+<h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋</h2>
 <h3 align="center">A Passionate Front-End Web Developer From Bangladesh</h3>
-</h2>
 
 
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <img align="center" height="200" style="border-radius: 5px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="googlermridul" />
-</div>
+</div> -->
 
 <b> <i> 🔭 I’m currently working on something cool </b> </i> <br>
 <b> <i> 🌱 I’m currently learning everything </b> </i> <br>
