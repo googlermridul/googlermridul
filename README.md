@@ -9,3 +9,5 @@
 📫 How to reach me: ... <br>
 😄 Pronouns: ... <br>
 ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
