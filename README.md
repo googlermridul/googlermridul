@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahfuzur Rahman Mridul 👋
 #### A Passionate Front-End Web Developer From Bangladesh
 
-<div align="left" width="50%" float="left">
+<div align="left" width="50%">
 🔭 I’m currently working on something cool <br>
 🌱 I’m currently learning everything <br>
 👯 I’m looking to collaborate on more open source project <br>
@@ -13,7 +13,7 @@
 </div>
 
 
-<div align="right">
+<div align="right" width="50%">
   <img align="center" height="200" style="border-radius: 5px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="googlermridul" />
 </div>
 
