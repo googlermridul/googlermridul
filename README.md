@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif" width="80" height="60" />
 <h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋</h2>
 <h3 align="center">A Passionate Front-End Web Developer From Bangladesh</h3>
 
