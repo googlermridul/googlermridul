@@ -1,7 +1,6 @@
-<img src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="80" height="80" />
-<h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋</h2>
-<h3 align="center">A Passionate Front-End Web Developer From Bangladesh</h3>
 
+<h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul <img src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="80" height="80" /></h2>
+<h3 align="center">A Passionate Front-End Web Developer From Bangladesh</h3>
 
 <!-- <div align="center" width="100%">
   <img align="center" height="200" style="border-radius: 5px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="googlermridul" />
@@ -90,6 +89,59 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  
+  
+  **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>    
+
+<a href="https://github.com/veerraj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerraj&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/veerraj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=veerraj&show_icons=true&theme=light&line_height=27" alt="Rajveer's github stats"/>
+</a>
+
+## follow me at...
+<a href="https://www.linkedin.com/in/rajveer-choudhary-287706178/">
+  <img style="color:skyblue" align="left" alt="Rajveers's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/rajveermewara">
+  <img align="left" alt="Rajveer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://github.com/veerraj">
+  <img align="left" alt="Rajveer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://instagram.com/_rajveer_mewara/">
+  <img align="left" alt="Rajveer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/veer.choudhary.12720/">
+  <img align="left" alt="Rajveer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
+<div align="center">
+
+### Thanks :) 
 
 
