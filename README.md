@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/21/db/d3/21dbd346a371c5bceffd6d61e491c3b0.gif" width="80" height="60" />
+<img src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="80" height="80" />
 <h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋</h2>
 <h3 align="center">A Passionate Front-End Web Developer From Bangladesh</h3>
 
