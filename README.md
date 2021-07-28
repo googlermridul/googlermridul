@@ -17,8 +17,8 @@ I take great care in the experience, architecture, and code quality of the thing
 * <b>I’m looking to collaborate on more open source project 👯</b>
 * <b>I’m currently studying on HSC 2nd year 🎓</b>
 
-
-<img float="right" src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="80" height="80" />  
+<br>
+<img float="right" src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="120" height="120" />  
  
 
 <br>
