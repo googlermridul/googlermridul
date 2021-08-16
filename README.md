@@ -45,9 +45,9 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <br><br>
 
-<!-- <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
+<img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
-<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" /> -->
+<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
 <br>
   
   
