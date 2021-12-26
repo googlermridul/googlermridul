@@ -1,6 +1,8 @@
 
 <!-- <h2 align="center">Hi there, I'm Mahfuzur Rahman Mridul <img src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="80" height="80" /></h2> -->
 
+<img alt="mridul" src="https://i.ibb.co/Chc4mPR/panda-mridul1.jpg" border="0" />
+
 <h3 align="center">Hi there, I'm Mahfuzur Rahman Mridul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <h4 align="center">A Passionate Front-End Web Developer From Bangladesh.
 <br>
