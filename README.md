@@ -15,7 +15,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <br>
 
 * <b>I’m currently working on something cool 🔭</b>
-* <b>I’m currently learning which I need to learn 🌱</b>
+* <b>I’m currently learning TypeScript & Redux 🌱</b>
 * <b>I’m looking to collaborate on more open source project 👯</b>
 * <b>I’m currently studying on HSC 2nd year 🎓</b>
 <!-- 
