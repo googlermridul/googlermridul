@@ -47,7 +47,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 
 
-<br><br>
+<br>
 
 <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
