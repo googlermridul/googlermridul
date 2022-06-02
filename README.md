@@ -3,7 +3,8 @@
 
 <!-- <img alt="mridul" src="https://i.ibb.co/YdMwgR4/panda-mridul2.jpg" border="0" /> -->
 
-<h3 align="center">Hi there, I'm Mahfuzur Rahman Mridul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hi there, I'm Mahfuzur Rahman Mridul </h3>
+<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> -->
 <h4 align="center">A Passionate and Self-Taught Front-End Web Developer From Bangladesh.
 <br>
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
