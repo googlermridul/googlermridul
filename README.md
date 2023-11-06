@@ -3,9 +3,9 @@
 
 <!-- <img alt="mridul" src="https://i.ibb.co/YdMwgR4/panda-mridul2.jpg" border="0" /> -->
 
-<h3 align="center">Hi there, I'm Mahfuzur Rahman Mridul </h3>
+<h3 align="center">Hi there, I'm Mahfuzur Rahman Mridul 👋</h3>
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> -->
-<h4 align="center">A Passionate and Self-Taught Front-End Web Developer From Bangladesh.
+<h4 align="center">A Passionate and Self-Taught Programming Enthusiast From Bangladesh.
 <br>
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 <br>
@@ -15,10 +15,12 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <br>
 
-* <b>I’m currently working on something cool 🔭</b>
-* <b>I’m currently learning TypeScript & Redux 🌱</b>
-* <b>I’m looking to collaborate on more open source project 👯</b>
-* <b>I’m currently studying on HSC 2nd year 🎓</b>
+* <b>🚀 Four-year journey in the world of programming</b>
+* <b>🌟 Front-end developer turned Flutter enthusiast</b>
+* <b>💻 Passionate about creating elegant and efficient software</b>
+* <b>📱 Building beautiful cross-platform mobile apps with Flutter</b>
+* <b>🔍 Always seeking new challenges and learning opportunities</b>
+* <b>🌐 Exploring the endless possibilities of technologyr</b>
 <!-- 
 <br> -->
 <!-- <img float="right" src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="120" height="120" />   -->
@@ -37,6 +39,12 @@ I take great care in the experience, architecture, and code quality of the thing
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
