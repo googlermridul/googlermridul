@@ -15,12 +15,12 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <br>
 
-* <b>🚀 Four-year journey in the world of programming</b>
-* <b>🌟 Front-end developer turned Flutter enthusiast</b>
-* <b>💻 Passionate about creating elegant and efficient software</b>
-* <b>📱 Building beautiful cross-platform mobile apps with Flutter</b>
-* <b>🔍 Always seeking new challenges and learning opportunities</b>
-* <b>🌐 Exploring the endless possibilities of technologyr</b>
+<b>🚀 Four-year journey in the world of programming</b>
+<b>🌟 Front-end developer turned Flutter enthusiast</b>
+<b>💻 Passionate about creating elegant and efficient software</b>
+<b>📱 Building beautiful cross-platform mobile apps with Flutter</b>
+<b>🔍 Always seeking new challenges and learning opportunities</b>
+<b>🌐 Exploring the endless possibilities of technologyr</b>
 <!-- 
 <br> -->
 <!-- <img float="right" src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="120" height="120" />   -->
