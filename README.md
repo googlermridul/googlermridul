@@ -28,7 +28,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <br>
 
-
+<h4>Let's connect and build amazing things together!</h4>
 
 <h4>Languages & Tools</h4>
 
