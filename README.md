@@ -7,7 +7,7 @@
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> -->
 <h4 align="center">A Passionate and Self-Taught Programming Enthusiast From Bangladesh.
 <br>
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. 
 <br>
 I take great care in the experience, architecture, and code quality of the things I build.
 </h4>
@@ -18,9 +18,9 @@ I take great care in the experience, architecture, and code quality of the thing
 <b>🚀 Four-year journey in the world of programming</b><br>
 <b>🌟 Front-end developer turned Flutter enthusiast</b><br>
 <b>💻 Passionate about creating elegant and efficient software</b><br>
-<b>📱 Building beautiful cross-platform mobile apps with Flutter</b><br>
+<b>📱  Building beautiful cross-platform mobile apps with Flutter</b><br>
 <b>🔍 Always seeking new challenges and learning opportunities</b><br>
-<b>🌐 Exploring the endless possibilities of technologyr</b>
+<b>🌐 Exploring the endless possibilities of technology</b>
 <!-- 
 <br> -->
 <!-- <img float="right" src="https://66.media.tumblr.com/886a0c93a00c62643790be6ba57bf0dd/tumblr_mqptmpWZQs1rfjowdo1_500.gif" width="120" height="120" />   -->
@@ -34,10 +34,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <h4>Languages & Tools</h4>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -51,6 +47,10 @@ I take great care in the experience, architecture, and code quality of the thing
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -62,7 +62,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=googlermridul&show_icons=true&locale=en" alt="googlermridul" />
 
-<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
+<img align="right" height="180" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=googlermridul&show_icons=true&locale=en&layout=compact" alt="googlermridul" />
 <br>
   
   
