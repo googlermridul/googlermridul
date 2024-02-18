@@ -15,7 +15,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <br>
 
-<b>🚀 Four-year journey in the world of programming</b><br>
+<b>🚀 Four-year journey in the world of programming </b><br>
 <b>🌟 Front-end developer turned Flutter enthusiast</b><br>
 <b>💻 Passionate about creating elegant and efficient software</b><br>
 <b>📱  Building beautiful cross-platform mobile apps with Flutter</b><br>
